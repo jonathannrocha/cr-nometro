@@ -52,7 +52,7 @@ function milise() {
     mili++
     vismil.innerHTML = mili;
 
-    if (mili > 100) {
+    if (mili > 99) {
         
         vismil.innerHTML = '00';
         mili = 0;
