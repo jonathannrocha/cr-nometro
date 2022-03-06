@@ -4,7 +4,7 @@
 Pequeno projeto para treinar um pouco sobre controle de intervalo em javaScrip.
 
 <h2 >Screenshot</h2>
-<img src="/Assets/images/imagesitedesktop.jpg" width="30%" alt="Screenshots Deskotop"/>
+<img src="/assests/image/img.png" width="30%" alt="Screenshots Deskotop"/>
       
 
 
